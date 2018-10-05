@@ -1,3 +1,3 @@
-# Practical Data Science Meetup
+# Practical SLC Data Science Meetup
 
-Talks from the SLC Data Science Meetup
+Talks from the meetup
